@@ -1,4 +1,4 @@
-package com.agusgambina.exercise01;
+package com.agusgambina.convertbinaryarraytoint;
 
 import java.util.List;
 
